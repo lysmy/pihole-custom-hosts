@@ -1,83 +1,180 @@
-# Pihole random blacklist from query - updated 2017-01-09
- 
-0.0.0.0 deep.6845208.pix-cdn.org
-0.0.0.0 www.bangbrosnetwork.com
-0.0.0.0 secure.collegerules.com
-0.0.0.0 join.lustcinema.com
-0.0.0.0 pgl.yoyo.org
-0.0.0.0 locprod1-elb-eu-west-1.prod.mozaws.net
-0.0.0.0 fedoraproject.org
-0.0.0.0 f58i.horsepowerplus.eu
-0.0.0.0 f58i.tentigo.eu
-0.0.0.0 4911-36494.link.iwanttodeliver.com
-0.0.0.0 f58i.sizefix.eu
-0.0.0.0 main.trafficfactory.biz
-0.0.0.0 enter.magmafilm.com
-0.0.0.0 img-hw.xvideos.com
-0.0.0.0 cdn3-hls.xvideos.com.fpbns.net
-0.0.0.0 chipbang.com
-0.0.0.0 russiasexygirls.com
-0.0.0.0 static.ylilauta.org
-0.0.0.0 beautyoferotism.com
-0.0.0.0 links.verotel.com
-0.0.0.0 enter.mmvfilms.com
-0.0.0.0 join.massagegirls18.com
-0.0.0.0 join.realitysexnetwork.com
-0.0.0.0 cams.beeg.com
-0.0.0.0 secure.gravatar.com
-0.0.0.0 weknowmemes.com
-0.0.0.0 www.ridemedia.fi
-0.0.0.0 yle.spring-tns.net
-0.0.0.0 www.iltalehti.fi
-0.0.0.0 www.iltasanomat.fi
-0.0.0.0 shop.spreadshirt.com
-0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 www.pornhubcasino.com
-0.0.0.0 bororango.com
-0.0.0.0 www.peeperz.com
-0.0.0.0 pornhubpremium.com
-0.0.0.0 www.pornhubpremium.com
-0.0.0.0 www.gaytube.com
-0.0.0.0 www.porniq.com
-0.0.0.0 oldgt.gaytube.com
-0.0.0.0 32.islafenice.net
-0.0.0.0 pornhubselect.com
-0.0.0.0 lp.mbtrx.com
-0.0.0.0 mbtrx.com
-0.0.0.0 ocsp.comodoca.com
-0.0.0.0 www.pornhubselect.com
-0.0.0.0 watchmygirlfriend.tv
-0.0.0.0 preview-eu1.stripchat.com
-0.0.0.0 gp.symcd.com
-0.0.0.0 cdne.stripchat.com
-0.0.0.0 xhamsterlive.com
-0.0.0.0 gv.symcd.com
-0.0.0.0 mikeinbrazil.com
-0.0.0.0 www.rk.com
-0.0.0.0 presence.gog.com
-0.0.0.0 e.crashlytics.com
-0.0.0.0 join.fuckedhard18.com
-0.0.0.0 www.videochatmodule.com
-0.0.0.0 theporndude.com
-0.0.0.0 daftporn.com
-0.0.0.0 cdn.efukt.com
-0.0.0.0 www.dreamamateurs.com
-0.0.0.0 www.pornmd.com
-0.0.0.0 fantasti.cc
-0.0.0.0 pornfun.com
-0.0.0.0 pron.tv
-0.0.0.0 www.lily.fi
-0.0.0.0 g2.nh.ee
-0.0.0.0 img.everychina.com
-0.0.0.0 www.chinajiaho.com
-0.0.0.0 blacklikemoi.com
-0.0.0.0 join.dadcrush.com
-0.0.0.0 join.teamskeet.com
-0.0.0.0 join.teensloveanal.com
-0.0.0.0 join.sislovesme.com
-0.0.0.0 i.ota.coloros.com
-0.0.0.0 api.foursquare.com
-0.0.0.0 neighboraffair.naughtyamerica.com
-0.0.0.0 enter.mysistershotfriend.com
-0.0.0.0 lempimissit.suntuubi.com
-0.0.0.0 
+deep.6845208.pix-cdn.org
+www.bangbrosnetwork.com
+secure.collegerules.com
+join.lustcinema.com
+pgl.yoyo.org
+locprod1-elb-eu-west-1.prod.mozaws.net
+f58i.horsepowerplus.eu
+f58i.tentigo.eu
+4911-36494.link.iwanttodeliver.com
+f58i.sizefix.eu
+main.trafficfactory.biz
+enter.magmafilm.com
+img-hw.xvideos.com
+cdn3-hls.xvideos.com.fpbns.net
+chipbang.com
+russiasexygirls.com
+beautyoferotism.com
+links.verotel.com
+enter.mmvfilms.com
+join.massagegirls18.com
+join.realitysexnetwork.com
+cams.beeg.com
+secure.gravatar.com
+weknowmemes.com
+www.ridemedia.fi
+yle.spring-tns.net
+www.iltalehti.fi
+www.iltasanomat.fi
+shop.spreadshirt.com
+incoming.telemetry.mozilla.org
+www.pornhubcasino.com
+bororango.com
+www.peeperz.com
+pornhubpremium.com
+www.pornhubpremium.com
+www.gaytube.com
+www.porniq.com
+oldgt.gaytube.com
+32.islafenice.net
+pornhubselect.com
+lp.mbtrx.com
+mbtrx.com
+ocsp.comodoca.com
+www.pornhubselect.com
+watchmygirlfriend.tv
+preview-eu1.stripchat.com
+gp.symcd.com
+cdne.stripchat.com
+xhamsterlive.com
+gv.symcd.com
+mikeinbrazil.com
+www.rk.com
+presence.gog.com
+e.crashlytics.com
+join.fuckedhard18.com
+www.videochatmodule.com
+theporndude.com
+daftporn.com
+cdn.efukt.com
+www.dreamamateurs.com
+www.pornmd.com
+fantasti.cc
+pornfun.com
+pron.tv
+www.lily.fi
+g2.nh.ee
+img.everychina.com
+www.chinajiaho.com
+blacklikemoi.com
+join.dadcrush.com
+join.teamskeet.com
+join.teensloveanal.com
+join.sislovesme.com
+i.ota.coloros.com
+api.foursquare.com
+neighboraffair.naughtyamerica.com
+enter.mysistershotfriend.com
+lempimissit.suntuubi.com
+chat.gog.com
+api.v1s.badgeville.com
+embed.doorbell.io
+www.victoriamilan.fi
+pxl.trafficstars.com
+daredorm.com
+www.daredorm.com
+moneytalks.com
+media.tenor.co
+scontent.fhel1-1.fna.fbcdn.net
+tororango.com
+youporngay.com
+www.tube8.com
+www.stardestroyer.net
+a57.foxnews.com
+www.battletanks.com
+suptg.thisisnotatrueending.com
+record.betssongroupaffiliates.com
+trk.suprclickers.info
+trk.suprclicks.com
+fmuxugcqucuu.com
+www.nordicbet.com
+www.favicon-generator.org
+klakcdiqmgxq.com
+www.klakcdiqmgxq.com
+track.reacheffect.com
+thewhizmarketing.com
+www.kink.com
+www.publicdisgrace.com
+boomerang.digitalriverws.com
+settings.crashlytics.com
+join.punishteens.com
+www.moneytalks.com
+bigdick.slutchoice.com
+black.slutchoice.com
+www.mikesapartment.com
+mikesapartment.com
+tour.naughtyamerica.com
+natour.naughtyamerica.com
+mydadshotgirlfriend.naughtyamerica.com
+pawg.com
+eurosexparties.com
+www.roundandbrown.com
+roundandbrown.com
+enter.myfriendshotgirl.com
+tracking1.euroads.fi
+pdw-ipr.userreport.com
+adsby.improveads.fi
+dualstack.euroads-fi-2004859963.eu-west-1.elb.amazonaws.com
+replase.ga
+j880iceh.party
+instagram.c10r.facebook.com
+go.nordicbet.com
+wltogethergaming.adsrv.eacdn.com
+suomikasino.com
+sync.teads.tv
+sak.userreport.com
+ics.userreport.com
+visitanalytics.userreport.com
+www.newtabtv.com
+www.egalac.info
+www.youronlinechoices.com
+join.pornprosnetwork.com
+join.teenbff.com
+fuckyoucash.com
+hhourtrk2.com
+gold-server-g2.ocsp.swisssign.net
+free.gamingwonderland.com
+widgets.sprinklecontent.com
+jsd.supersonicads.com
+zefzhat.appspot.com
+www.parentalcontrolbar.org
+www.nudography.com
+creatives.livejasmin.com
+www.findance.com
+thefinnishmethod.com
+qiqrguvdhcux.com
+join.familystrokes.com
+www.bangbros18.com
+xxxpawn.com
+st-secure.com
+hc.mygf.com
+www.hazeher.com
+www.hazeher.com.lohkoong.belugacdn.com
+legalporno.com
+www.legalporno.com
+enter.mofosnetwork.com
+enter.publicpickups.com
+px.gfycat.com
+pornhub.uservoice.com
+www.youporngay.com
+yestheyreallyare.18yearsold.com
+r4---sn-vgqs7nez.googlevideo.com
+www.youtube-nocookie.com
+i1.ytimg.com
+r17---sn-vgqsenes.googlevideo.com
+r2---sn-vgqs7n7k.googlevideo.com
+clients6.google.com
+r1---sn-vgqsen7z.googlevideo.com
+r1.sn-vgqsen7z.googlevideo.com
+r20---sn-vgqs7ne7.googlevideo.com
+r20.sn-vgqs7ne7.googlevideo.com
