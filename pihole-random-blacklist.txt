@@ -1,11 +1,15 @@
 32.islafenice.net
 4911-36494.link.iwanttodeliver.com
 7.googlevideo.com
+7caa2.v.fwmrm.net
 a57.foxnews.com
 acompli.helpshift.com
 admp-mtvfi-prod-targeting-1878781965.eu-west-1.elb.amazonaws.com
 admp-tc.mtv.fi
+ads-manual02.nelonenmedia.fi
+ads-spotgate02.nelonenmedia.fi
 adsby.improveads.fi
+adservice.google.fi
 adtwbjs.com
 amazingcreatives.space
 api.foursquare.com
@@ -21,9 +25,11 @@ bororango.com
 cams.beeg.com
 cdn.efukt.com
 cdn1.amateurphoto.xtube.com
+cdn1.aznude.com
+cdn2.aznude.com
 cdn3-hls.xvideos.com.fpbns.net
-cdnapi.kaltura.com
 cdne.stripchat.com
+celebrityfakes.co
 chat.gog.com
 chipbang.com
 community.wikia.com
@@ -34,7 +40,7 @@ d.la1-c1-lon.salesforceliveagent.com
 d17md65w07h7d0.cloudfront.net
 daftporn.com
 daredorm.com
-deep.6845208.pix-cdn.org
+doublepimpssl.com
 dualstack.euroads-fi-2004859963.eu-west-1.elb.amazonaws.com
 e.crashlytics.com
 e.googlevideo.com
@@ -68,12 +74,14 @@ free.gamingwonderland.com
 freeseotool.org
 fuckyoucash.com
 g2.nh.ee
+geoblock.nmxbapi.fi
 get-link-youtube.com
 get.wip4.adobe.com
 go.nordicbet.com
 go.trouter.io
 gold-server-g2.ocsp.swisssign.net
 gp.symcd.com
+gravatar.com
 gstaticadssl.l.google.com
 gv.symcd.com
 hc.mygf.com
@@ -133,6 +141,7 @@ locprod1-elb-eu-west-1.prod.mozaws.net
 lp.mbtrx.com
 m.stripe.com
 m.stripe.network
+m.twitch.tv
 m5terom.com
 main.exosrv.com
 main.trafficfactory.biz
@@ -151,6 +160,7 @@ natour.naughtyamerica.com
 nats.netvideogirls.com
 neighboraffair.naughtyamerica.com
 nicheshops.natsfornetworks.com
+notifications-na-v1.curseapp.net
 ocsp.comodoca.com
 ocsp.comodoca4.com
 oldgt.gaytube.com
@@ -158,6 +168,8 @@ pawg.com
 pdw-ipr.userreport.com
 pgl.yoyo.org
 pixcp.bangdom.com
+pixel.glimr.io
+poll.push.fsapi.com
 porn555.com
 pornfun.com
 pornhub.uservoice.com
@@ -179,6 +191,7 @@ r7---sn-qo5-ixal.googlevideo.com
 r9---sn-4g57knl6.googlevideo.com
 record.betssongroupaffiliates.com
 replase.ga
+reporting-v1.curseapp.net
 roundandbrown.com
 russiasexygirls.com
 sak.userreport.com
